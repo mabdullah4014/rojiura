@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659818956340",
+    "firebase_url": "https://rojiura-82c91-default-rtdb.firebaseio.com",
+    "project_id": "rojiura-82c91",
+    "storage_bucket": "rojiura-82c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659818956340:android:8c64eda2703ac3fd88ac61",
+        "android_client_info": {
+          "package_name": "com.rojiura.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659818956340-h1srbso0qqc75bskfvbfaddbu5ug15pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuYiXrf7ZQjE7AoVAQsB13RfSDEDNB-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659818956340-h1srbso0qqc75bskfvbfaddbu5ug15pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659818956340-0jcv1sa3ik8ireiuth3sumjab9t3p90f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rojiura.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

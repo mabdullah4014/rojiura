@@ -1,0 +1,2 @@
+#include "Pods/Target Support Files/Pods-Rojiura/Pods-Rojiura.release.xcconfig"
+#include "Generated.xcconfig"
